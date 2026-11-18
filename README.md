@@ -1,2 +1,1 @@
-# cagridan-nota
-Çağrıdan Nota masaüstü: yalnız kurulum dosyaları
+Çağrıdan Nota masaüstü uygulamasının kurulum dosyaları. Kaynak kod bu depoda değildir.
